@@ -2,7 +2,8 @@ Graph Regularized Probabilistic Matrix Factorization for Drug-Drug Interactions 
 
 Co-administration of two or more drugs simultaneously can result in adverse drug reactions. Identifying drug-drug interactions (DDIs) is necessary, especially for drug development and for repurposing old drugs. DDI prediction can be viewed as a matrix completion task, for which matrix factorization (MF) appears as a suitable solution. This paper presents a novel Graph Regularized Probabilistic Matrix Factorization (GRPMF) method, which incorporates expert knowledge through a novel graph-based regularization strategy within an MF framework. An efficient and sounded optimization algorithm is proposed to solve the resulting non-convex problem in an alternating fashion. The performance of the proposed method is evaluated through the DrugBank dataset, and comparisons are provided against state-of-the-art techniques. The results demonstrate the superior performance of GRPMF when compared to its counterparts.
 
-Go to the run.m file.
-Put the algorithm you want to run in the "predictionMethod".
-Load your traina and test data. Our data is made publicily avaialble and is the data_files folder.
-Run the run.m file to get the aupr, auc, precision, recall, f1 score and accuracy.
+1. Go to the run.m file.
+2. Put the algorithm you want to run in the "predictionMethod".
+3. Load your traina and test data. 
+4. Our data is made publicily avaialble and is the data_files folder.
+5. Run the run.m file to get the aupr, auc, precision, recall, f1 score and accuracy.
