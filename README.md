@@ -1,4 +1,4 @@
-Graph Regularized Probabilistic Matrix Factorization for Drug-Drug Interactions Prediction (https://arxiv.org/pdf/2210.10784.pdf)
+**Graph Regularized Probabilistic Matrix Factorization for Drug-Drug Interactions Prediction (https://arxiv.org/pdf/2210.10784.pdf)**
 
 Authors: Stuti Jain, Emilie, Chouzenoux, Kriti Kumar, Angshul Majumdar
 
