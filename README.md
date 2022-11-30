@@ -10,5 +10,6 @@ Co-administration of two or more drugs simultaneously can result in adverse drug
 4. Our data is made publicly available. It can be found in the data_files.zip folder.
 5. Run the run.m script to get the aupr, auc, precision, recall, f1 score and accuracy.
 
+The experiments were run on an Intel(R) Core(TM) i7 x64-based processor and 8 GB RAM, using Matlab R2021a.
 
 This work received support from the Associate Team COMPASS between Inria and IIIT Delhi. E.C. and S.J. acknowledge support from the European Research Council Starting Grant MAJORIS ERC-2019-STG-850925.
